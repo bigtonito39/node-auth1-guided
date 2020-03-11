@@ -1,0 +1,7 @@
+authentication (authN) = Whow are you?
+Authorization (AuthZ) = What can you access?
+
+Authentication core principles:
+requiring strong passwords: 
+properly storing passwords
+preventing brute-force attacks
